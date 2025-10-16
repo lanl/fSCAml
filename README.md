@@ -1,4 +1,4 @@
-# fSCA ML: fractional snow covered area (fSCA) gradient boosted machine learning (ML) \
+# fSCA ML: fractional snow covered area (fSCA) gradient boosted machine learning (ML) 
 ## EIDR O#:4961
 
 This repository contains Jupyter notebooks and python scripts to train and predict fractional snow covered area in the Upper Colorado River Basin. We used a gradient boosted trees approach and high-resolution snow process modeling from SnowModel (Liston and Elder 2006) results to predict fSCA at 1000m resolution for the entire watershed. We matched the domain area for NoahMP model results at the same 1000m resolution. 
